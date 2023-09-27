@@ -1,0 +1,41 @@
+*{
+    background-color: #00F89A;
+}
+.name h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.foto {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* .foto text{
+    margin: 150px 150px;
+    text-align: center;
+} */
+
+.matn2 {
+    font-size: medium;
+    width: 70%;
+    text-align: center;
+    margin-left: 230px;
+}
+
+.menu {
+    color: white;
+    text-align: center;
+    /* text-shadow: 0 0 3px black, 0 0 5px black; */
+    text-shadow: 2px 2px 8px #000000;
+  
+}
+
+.wikipedia ul {
+ font-size: medium;
+ width: 80%;
+ margin-left: 110px;    
+}
+
+.container_wiki{
+}
